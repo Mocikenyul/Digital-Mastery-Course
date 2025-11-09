@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "courseName": "Digital Mastery Course",
+    "adminPassword": "admin123",
+    "monthlyRevenue": 0,
+    "courseDescription": "Sistem Manajemen Kursus Komputer",
+    "contactEmail": "",
+    "contactPhone": "",
+    "address": "",
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "logoText": "DMC"
+  },
+  "students": [],
+  "classes": [],
+  "schedules": [],
+  "attendance": [],
+  "materials": [],
+  "exportDate": "2025-11-09T02:31:12.060Z",
+  "version": "1.0.0"
+}
