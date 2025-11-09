@@ -1,0 +1,7 @@
+flask
+flask-login
+flask-sqlalchemy
+pandas
+openpyxl
+werkzeug
+gunicorn  # Untuk deploy
